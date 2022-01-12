@@ -1,5 +1,5 @@
 # PodcastEditor
-A Python program that automatically edits a podcast or conversation between two people based on who is louder.
+A Python program that automatically edits a podcast or conversation between two people by combining the audio feeds and changing the video based on who is louder.
 
 Requirements: 
 
