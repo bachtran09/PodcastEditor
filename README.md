@@ -1,4 +1,4 @@
-# VPAutomation
+# PodcastEditor
 A Python program that automatically edits a podcast or conversation between two people based on who is louder.
 
 Requirements: 
@@ -19,6 +19,6 @@ Before editing:
 
 How to use:
 
-  Go into the terminal and cd to the directory where VPAutomation.py is located and run it with "py VPAutomation.py"
+  Go into the terminal and cd to the directory where PodcastEditor.py is located and run it with "py PodcastEditor.py"
   
   Input the directory of each video file, then enter the name you want for the edited file (no file extension is necessary).
