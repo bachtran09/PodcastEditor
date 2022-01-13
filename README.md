@@ -22,3 +22,5 @@ How to use:
   Go into the terminal and cd to the directory where PodcastEditor.py is located and run it with "py PodcastEditor.py"
   
   Input the directory of each video file, then enter the name you want for the edited file (no file extension is necessary).
+  
+  Here are test files you can use to see what the program can do: https://www.dropbox.com/sh/50xo3w6g7jceahb/AAB_bYhd6UI9oMQcgE0ZenHAa?dl=0
